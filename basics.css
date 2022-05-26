@@ -1,0 +1,134 @@
+body {
+	margin: 40px 0;
+	color: #333;
+	background:#0547ab;
+	padding:0;
+	font: 20px Arial, Helvetica, sans-serif;
+	}
+   
+   a:link {
+   color: #9dc8ee;
+   text-decoration: none;
+   padding: 2px;
+   transition: 1s linear;
+   }
+   a:visited {
+   text-decoration: none;
+   color: #9dc8ee;
+   }
+   a:hover {
+    color: #ffffff;
+    background: #0547ab; 
+   
+   }
+   a:active {
+   text-decoration: none;
+   color: #c0a281;
+   }
+   
+   h1 {
+	font-size: 25px;
+   }
+   
+   h2 {
+	font-size: 23px;
+   }
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   #outer {
+	width: 650px;
+	margin: 0 auto;
+	background: #fff url(back.jpg) repeat-y;
+	}
+   
+   #hdr {
+	padding-top: 125px;
+	background: #fff url(shapka.jpg) no-repeat;
+	}
+   
+   #hdr h1 {
+	color: #fff;
+	background:#42e9fc;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: center;
+	text-transform: uppercase;
+	margin: 0;
+	padding: 16px;	
+	border-width:1px 0 1px 0;
+	}
+   
+   #nav {
+	float:left;
+	width:130px;
+	padding: 16px;
+	text-align: center;
+	background: url(divider.gif) no-repeat bottom center;
+	padding-bottom: 30px;
+   }
+   #nav ul {
+	background: url(divider.gif) no-repeat top center;
+	margin: 0;
+	padding: 30px 0 0 0;
+	list-style: none;
+   }
+   #nav li {
+	   margin: 0;
+   }
+   
+   #cont {
+	float: right;
+	width:440px;
+	padding: 1.5em;
+	}
+   #cont h2 {
+	color: rgb(93, 75, 57);
+   }
+   
+   #ftr {
+	clear: both;
+	color: #fff;
+	background:#f7e1d4;
+	font-size: 0.8em;
+	text-align: center;
+	border-top: 1px solid #000;
+	margin: 100px 0 0 0;
+	}
+   
+   #leftImg
+   {
+   float:left;
+   width: 125px;
+   height: 93px;
+   padding: 0 5px 5px 0;
+   }
+   
+   #rightImg
+   {
+   float:right;
+   width: 215px;
+   height: 149px;
+   padding: 0 0 5px 5px;
+   }
+   
+   
